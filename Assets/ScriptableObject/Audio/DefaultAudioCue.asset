@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb28b8ad3470aa4480e530ca377ce9f, type: 3}
+  m_Name: DefaultAudioCue
+  m_EditorClassIdentifier: 
+  Looping: 1
+  audioClipGroups:
+  - Mode: 2
+    AudioClips:
+    - {fileID: 8300000, guid: 1acafeed0d9149540b3efad3ca6055db, type: 3}

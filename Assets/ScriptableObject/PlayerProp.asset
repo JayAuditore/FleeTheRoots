@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e1601128ea341747934cf97bb7b367b, type: 3}
+  m_Name: PlayerProp
+  m_EditorClassIdentifier: 
+  JumpForce: 5
+  Points: 0
+  Floor: 1
+  InvincibleTime: 5
+  HP: -1
+  Mission: 0
+  WalkSpeed: 10
+  MoveInput: 0
+  JumpPress: 0
+  LandPress: 0
+  IsMagic: 0
+  IsPause: 0
+  IsInvincible: 0
+  IsGameOver: 0
